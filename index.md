@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.25
   caption: "Department of Psychology • University of Tennessee at Chattanooga"
 excerpt: >
-  <span style="font-size:1.5rem;"><strong>We Measure Work.</strong></span><br>
+  <span style="font-size:1.5rem;"><strong>Quantitative Foundations for Work Science.</strong></span><br>
   <span style="opacity:.9;">Measurement • Machine Learning • Methods</span><br>
   We focus on research of <em>selection</em>, <em>testing</em>, and <em>performance</em> using
   <strong>psychometrics</strong>, <strong>language data</strong>, <strong> machine learning</strong>, and other novel methodology.
