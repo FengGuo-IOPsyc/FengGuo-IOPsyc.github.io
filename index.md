@@ -1,35 +1,46 @@
 ---
 layout: splash
-title: "Your Lab Name"
+title: "WMA Lab"
 permalink: /
 header:
   overlay_image: /assets/img/hero.jpg
-  overlay_filter: 0.2
-  caption: "Your Lab — University / Institute"
+  overlay_filter: 0.25
+  caption: "Department of Psychology • University of Tennessee at Chattanooga"
+  actions:
+    - label: "Meet the Team"
+      url: "/people/"
+    - label: "Publications"
+      url: "/publications/"
+    - label: "Contact"
+      url: "/contact/"
+excerpt: >
+  <span style="font-size:1.5rem;"><strong>We Measure Work.</strong></span><br>
+  <span style="opacity:.9;">Measurement • Machine Learning • Methods</span><br>
+  We build and validate tools for <em>selection</em>, <em>testing</em>, and <em>performance</em> using
+  <strong>psychometrics</strong>, <strong>language data</strong>, and <strong>transparent machine learning</strong>.
 feature_row:
   - image_path: /assets/img/feature-people.jpg
     alt: "People"
     title: "People"
-    excerpt: "Meet the team behind the research."
+    excerpt: "Students and collaborators working on measurement, methods, and workplace outcomes."
     url: "/people/"
     btn_label: "View"
     btn_class: "btn--primary"
   - image_path: /assets/img/feature-publications.jpg
     alt: "Publications"
     title: "Publications"
-    excerpt: "Peer-reviewed papers, preprints, and datasets."
+    excerpt: "Peer-reviewed papers and preprints on measurement, machine learning, and methodology."
     url: "/publications/"
     btn_label: "Browse"
     btn_class: "btn--primary"
   - image_path: /assets/img/feature-projects.jpg
     alt: "Projects"
     title: "Projects"
-    excerpt: "What we're building right now."
+    excerpt: "Selection, testing, and performance modeling — including community-engaged grants."
     url: "/projects/"
     btn_label: "Explore"
     btn_class: "btn--primary"
 ---
 
-Welcome to the **Your Lab Name** website! We study *X, Y, Z* with methods spanning A, B, and C. <!--more-->
-
 {% include feature_row %}
+
