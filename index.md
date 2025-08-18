@@ -12,21 +12,21 @@ excerpt: >
   We focus on research of <em>selection</em>, <em>testing</em>, and <em>performance</em> using
   <strong>psychometrics</strong>, <strong>language data</strong>, and <strong> machine learning</strong>.
 feature_row:
-  - image_path: /assets/img/feature-people.jpg
+  - image_path: /assets/img/wma-feature-people-1600x900.jpg
     alt: "People"
     title: "People"
-    excerpt: "Students and collaborators working on measurement, methods, and workplace outcomes."
+    excerpt: "Students and collaborators."
     url: "/people/"
     btn_label: "View"
     btn_class: "btn--primary"
-  - image_path: /assets/img/feature-publications.jpg
+  - image_path: /assets/img/wma-feature-publications-1600x900.jpg
     alt: "Publications"
     title: "Publications"
-    excerpt: "Peer-reviewed papers and preprints on measurement, machine learning, and methodology."
+    excerpt: "Peer-reviewed papers, preprints, and presentations."
     url: "/publications/"
     btn_label: "Browse"
     btn_class: "btn--primary"
-  - image_path: /assets/img/feature-projects.jpg
+  - image_path: /assets/img/wma-feature-projects-1600x900.jpg
     alt: "Projects"
     title: "Projects"
     excerpt: "Selection, testing, and performance modeling — including community-engaged grants."
