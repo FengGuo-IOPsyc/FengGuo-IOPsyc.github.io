@@ -6,18 +6,11 @@ header:
   overlay_image: /assets/img/hero.jpg
   overlay_filter: 0.25
   caption: "Department of Psychology • University of Tennessee at Chattanooga"
-  actions:
-    - label: "Meet the Team"
-      url: "/people/"
-    - label: "Publications"
-      url: "/publications/"
-    - label: "Contact"
-      url: "/contact/"
 excerpt: >
   <span style="font-size:1.5rem;"><strong>We Measure Work.</strong></span><br>
   <span style="opacity:.9;">Measurement • Machine Learning • Methods</span><br>
-  We build and validate tools for <em>selection</em>, <em>testing</em>, and <em>performance</em> using
-  <strong>psychometrics</strong>, <strong>language data</strong>, and <strong>transparent machine learning</strong>.
+  We focus on research of <em>selection</em>, <em>testing</em>, and <em>performance</em> using
+  <strong>psychometrics</strong>, <strong>language data</strong>, and <strong> machine learning</strong>.
 feature_row:
   - image_path: /assets/img/feature-people.jpg
     alt: "People"
