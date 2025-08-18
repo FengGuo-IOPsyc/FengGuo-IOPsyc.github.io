@@ -10,7 +10,7 @@ excerpt: >
   <span style="font-size:1.5rem;"><strong>We Measure Work.</strong></span><br>
   <span style="opacity:.9;">Measurement • Machine Learning • Methods</span><br>
   We focus on research of <em>selection</em>, <em>testing</em>, and <em>performance</em> using
-  <strong>psychometrics</strong>, <strong>language data</strong>, and <strong> machine learning</strong>.
+  <strong>psychometrics</strong>, <strong>language data</strong>, <strong> machine learning</strong>, and other novel methodology.
 feature_row:
   - image_path: /assets/img/wma-feature-people-1600x900.jpg
     alt: "People"
