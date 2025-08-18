@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "WMA Lab"
+title: "Workplace Measurement & Analytics Lab (WMA Lab)"
 permalink: /
 header:
   overlay_image: /assets/img/hero-v2.jpg
