@@ -54,7 +54,7 @@ defaults:
 
 # Site identity
 name: "Workplace Measurement & Analytics Lab (WMA Lab)"
-logo: "/assets/img/logo.png"
+logo: "/assets/img/logo-v2.png"
 
 author:
   name: "Feng Guo, Ph.D."

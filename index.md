@@ -3,7 +3,7 @@ layout: splash
 title: "WMA Lab"
 permalink: /
 header:
-  overlay_image: /assets/img/hero.jpg
+  overlay_image: /assets/img/hero-v2.jpg
   overlay_filter: 0.25
   caption: "Department of Psychology • University of Tennessee at Chattanooga"
 excerpt: >
