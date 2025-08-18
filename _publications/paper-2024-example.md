@@ -1,5 +1,6 @@
 ---
-
+title: "Selected Publications"
+---
 
 Guo, F., Gallagher, C. M., Sun, T., Min, H., & Tavoosi, S. (2024) Smarter people analytics with organizational text data: Demonstrations using classic and advanced NLP models Human Resource Management Journal.
 
@@ -16,5 +17,3 @@ Zickar, J. M., & Guo, F. (2023) Computational modeling. The psychology research 
 Min, H., Guo, F., Choi, & Jex, S. M. (2022). Old Enough to Perceive Things Differently? Detecting Measurement Invariance across Age Groups using Item-Focused Tree. Work, Aging and Retirement.
 
  
-
----
