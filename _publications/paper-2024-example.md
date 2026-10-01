@@ -1,5 +1,6 @@
 ---
-title: "Selected Publications"
+title: "View Selected Publications"
+excerpt: "Click to view the full list of selected journal articles, preprints, and book chapters."
 ---
 
 Guo, F., Gallagher, C. M., Sun, T., Min, H., & Tavoosi, S. (2024) Smarter people analytics with organizational text data: Demonstrations using classic and advanced NLP models Human Resource Management Journal.

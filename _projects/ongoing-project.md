@@ -1,5 +1,6 @@
 ---
-title: "Ongoing Project"
+title: "View Ongoing Projects"
+excerpt: "Click to view current research projects and project themes."
 ---
 
 Detecting social desirability in self-report measures.

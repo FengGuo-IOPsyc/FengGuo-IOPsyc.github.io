@@ -1,5 +1,6 @@
 ---
-title: "Selected Presentations"
+title: "View Selected Presentations"
+excerpt: "Click to view the full list of selected conference presentations and posters."
 ---
 
 Guo, F., Eschman, B., Ho, B, & Filetti, M. (2025). Deciphering Social Desirability: Integrating Machine Learning and Eye-Tracking. Poster to present at the 40th Annual Conference of the Society for Industrial and Organizational Psychology, Denver.

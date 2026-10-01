@@ -1,5 +1,6 @@
 ---
-title: "Grant Activities"
+title: "View Grant Activities"
+excerpt: "Click to view funded research and development activities."
 summary: "Funded projects."
 status: "Active"
 ---
